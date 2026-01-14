@@ -1,0 +1,17 @@
+INFO:     127.0.0.1:49758 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49759 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49761 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53892 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53893 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54544 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54544 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54549 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54549 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50357 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58105 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63834 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63834 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61852 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56104 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56105 - "GET /favicon.ico HTTP/1.1" 404 Not Found
